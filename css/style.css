@@ -2,5 +2,5 @@
 body {
     background-image: url("https://jackkavanaghcv.github.io/IMG_0373.JPG");
     background-repeat: no-repeat;
-    background-size: 300px 100px;
+    background-size: contain;
 }
