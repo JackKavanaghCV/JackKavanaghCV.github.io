@@ -1,8 +1,4 @@
 
 body {
- background: url(https://jackkavanaghcv.github.io/IMG_0362.JPG) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    background-image: url("gradient_bg.png");
 }
