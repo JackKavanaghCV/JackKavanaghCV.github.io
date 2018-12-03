@@ -32,3 +32,9 @@ li a:hover {
 .active {
     background-color: #4CAF50;
 }
+
+ul {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
