@@ -6,6 +6,7 @@ body {
 
 .p1 {
     font-size: 50px;
+    text-align: center;
 }
     
 
@@ -41,7 +42,7 @@ li a:hover {
 }
 
 .active {
-    background-color: ##000066;
+    background-color: #000066;
 }
 
 ul {
