@@ -6,6 +6,7 @@ body {
 .p1 {
     font-size: 50px;
     text-align: center;
+    color: #1B8AD6;
 }
     
 
@@ -19,7 +20,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #1B8AD6;
 }
 
 li {
@@ -35,12 +36,12 @@ li a {
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: #0E4E7A;
    
 }
 
 .active {
-    background-color: #111;
+    background-color: #0E4E7A;
 }
 
 ul {
